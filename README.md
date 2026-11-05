@@ -94,4 +94,8 @@ The scripts in this repository are provided to facilitate reproducibility of the
 
 ## Citation
 
-Citation information will be added following publication of the associated manuscript.
+The analysis code associated with this project is permanently archived in Zenodo:
+
+**DOI: 10.5281/zenodo.23970551**
+
+The full citation for the associated manuscript will be added following publication.
